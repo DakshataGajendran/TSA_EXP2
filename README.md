@@ -97,6 +97,9 @@ plt.show()
 ```
 
 ### OUTPUT
+## TREND EQUATIONS
+<img width="556" height="82" alt="image" src="https://github.com/user-attachments/assets/e4d60bb1-0f63-4500-b801-35955695aaa5" />
+
 ## A - LINEAR TREND ESTIMATION
 <img width="1194" height="602" alt="image" src="https://github.com/user-attachments/assets/1155cd12-1276-4fff-961a-256a1b962be1" />
 
